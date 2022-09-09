@@ -4,6 +4,7 @@ hello git!
 hot=fix
 hello git!
 master
+hot-fix
 hello git!
 hello git!
 hello git!
